@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - DeathTrigger
+  - Bullet
+  - Enemy
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Shootable
+  - Player
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 2606541887
+    locked: 0
+  - name: 1
+    uniqueID: 2911685119
+    locked: 0
+  - name: cannonPlantLayer
+    uniqueID: 871439129
+    locked: 0
+  - name: signs
+    uniqueID: 1761930825
+    locked: 0
+  - name: Foreground
+    uniqueID: 3036736693
+    locked: 0
