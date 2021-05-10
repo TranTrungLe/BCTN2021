@@ -9318,11 +9318,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6371481342403616001, guid: 53465bce62e0e7b4aab5b1d77988b1ee,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6371481342403616028, guid: 53465bce62e0e7b4aab5b1d77988b1ee,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -9332,6 +9327,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6371481342403616001, guid: 53465bce62e0e7b4aab5b1d77988b1ee,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 53465bce62e0e7b4aab5b1d77988b1ee, type: 3}
@@ -11449,6 +11449,11 @@ PrefabInstance:
       propertyPath: rayCast
       value: 
       objectReference: {fileID: 83677700}
+    - target: {fileID: 7421045426060664846, guid: 618ae4cfb70e3ff448459c8ce2fd01c6,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3633010291007768669, guid: 618ae4cfb70e3ff448459c8ce2fd01c6,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11485,11 +11490,6 @@ PrefabInstance:
       propertyPath: deathKnell
       value: 
       objectReference: {fileID: 8300000, guid: bd8857660a16ba549b8cc522d93d9117, type: 3}
-    - target: {fileID: 7421045426060664846, guid: 618ae4cfb70e3ff448459c8ce2fd01c6,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 618ae4cfb70e3ff448459c8ce2fd01c6, type: 3}
 --- !u!1001 &1505291989
@@ -11743,7 +11743,7 @@ PrefabInstance:
     - target: {fileID: 5718313588254214235, guid: b6acc567921c5e84ab9b6ea5f2a37407,
         type: 3}
       propertyPath: nextLv
-      value: map1
+      value: map2
       objectReference: {fileID: 0}
     - target: {fileID: 5718313588167433178, guid: b6acc567921c5e84ab9b6ea5f2a37407,
         type: 3}
